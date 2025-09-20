@@ -1,5 +1,5 @@
 // API Configuration
-export const NEWS_API_KEY = process.env.NEWS_API_KEY || '0ac7904f37e24b32919ea7e94101926d';
+export const NEWS_API_KEY = process.env.NEWS_API_KEY || 'YOUR_NEWS_API_KEY_HERE'; // Take api key from newsapi.org
 export const NEWS_API_BASE_URL = 'https://newsapi.org/v2';
 
 // App Configuration
